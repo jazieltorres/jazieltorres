@@ -21,6 +21,6 @@ My research lies in **algebraic geometry**, under the supervision of [Prof. Eric
 
 * **Circular Costas maps: A multidimensional analog of circular Costas sequences** *With Ivelisse Rubio* Cryptogr. Commun (2023). [DOI](https://doi.org/10.1007/s12095-023-00654-2) / [arXiv:2210.16661](https://arxiv.org/abs/2210.16661)
 
-### 🎓 Education
+### Education
 * **Ph.D. in Mathematics**, University of Notre Dame *(Expected 2027)*
 * **M.S. in Mathematics**, University of Puerto Rico at Río Piedras *(2022)*
