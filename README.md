@@ -10,7 +10,7 @@
 I am a Ph.D. student in the Department of Mathematics at the [University of Notre Dame](https://math.nd.edu/) in Indiana, USA. 
 
 ### Research
-My research lies in **algebraic geometry**, under the supervision of [Prof. Eric Riedl](https://sites.google.com/nd.edu/ericriedl). I am particularly interested in complex hyperbolicity of algebraic varieties, the Green-Griffiths-Lang conjecture, and its computational aspects. During my Masters, under the supervision of Prof. Ivelisse Rubio, I studied a very nice combinatorial object called Costas arrays. 
+My research lies in **algebraic geometry**, under the supervision of [Prof. Eric Riedl](https://sites.google.com/nd.edu/ericriedl). I am particularly interested in complex hyperbolicity of algebraic varieties, the Green-Griffiths-Lang conjecture, and its computational aspects. During my Masters, under the supervision of Prof. Ivelisse Rubio, I studied a very nice combinatorial object called Costas arrays and also the linear complexity of periodic arrays over finite fields.
 
 ### Publications & Preprints
 * **Computing Jet Differentials and the Green-Griffiths-Lang Conjecture for Complements of Smooth Plane Curves** *With Ryan Contreras, Joe Cummings and Eric Riedl* [arXiv:2608.20479v1](https://arxiv.org/abs/2608.20479v1).
